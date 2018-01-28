@@ -1,3 +1,9 @@
+#build dist
+dist
+#build
+build
+# System
+.DS_Store
 # Logs
 logs
 *.log
